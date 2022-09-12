@@ -24,7 +24,7 @@ export default function Portfolio() {
             <div class="overflow-hidden rounded-md shadow-md">
               <img src={LP} alt="Landing Page" width="w-full" />
             </div>
-            <h3 class="mt-5 mb-3 text-xl font-semibold text-dark dark:text-white"><a href="https://heartfelt-starship-441219.netlify.app/">Landing Page Faldhi Ghifari</a></h3>
+            <h3 class="mt-5 mb-3 text-xl font-semibold text-dark dark:text-white"><a href="https://heartfelt-starship-441219.netlify.app/">Landing Page with React & TailwindCSS</a></h3>
             <p class="text-base font-medium text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, iusto! Aliquam, corporis.</p>
           </div>
           <div class="mb-12 p-4 md:w-1/2">
